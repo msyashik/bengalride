@@ -1,0 +1,11 @@
+.boxDesign {
+  padding: 3% 50% 3% 2%;
+  border: none;
+  border-bottom: 1px solid gray;
+}
+.submitButton {
+  padding: 3% 65%;
+  border: none;
+  background-color: #ff6e40;
+  color: white;
+}

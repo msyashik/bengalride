@@ -1,0 +1,26 @@
+[
+  {
+    "transport": "BIKE",
+    "image": "https://i.ibb.co/kgg9d6Z/Frame.png",
+    "startDest": "Rangamati",
+    "endDest": "Bandarban"
+  },
+  {
+    "transport": "CAR",
+    "image": "https://i.ibb.co/3cdtMCK/Frame-2.png",
+    "startDest": "CoxsBazar",
+    "endDest": "Khulna"
+  },
+  {
+    "transport": "BUS",
+    "image": "https://i.ibb.co/CMX2gPp/Frame-1.png",
+    "startDest": "Dhaka",
+    "endDest": "Sylhet"
+  },
+  {
+    "transport": "TRAIN",
+    "image": "https://i.ibb.co/r44ndQV/Group.png",
+    "startDest": "Chittagong",
+    "endDest": "Dhaka"
+  }
+]
